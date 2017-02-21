@@ -1,0 +1,14 @@
+package org.usfirst.frc6419.RobotFull.commands;
+
+import org.usfirst.frc6419.RobotFull.commands.autonomousCommands.TimedDriveStraight;
+import org.usfirst.frc6419.RobotFull.commands.autonomousCommands.TimedDriveTurn;
+
+import edu.wpi.first.wpilibj.command.CommandGroup;
+
+public class AutonomousCommandGroup extends CommandGroup {
+	public AutonomousCommandGroup(){
+		addSequential(new TimedDriveStraight(2, .5));
+		addSequential(new TimedDriveStraight(2, 0));
+		addSequential(new TimedDriveTurn(2, -.5));
+	}
+}

@@ -1,0 +1,7 @@
+package org.usfirst.frc6419.RobotFull.commands;
+
+import edu.wpi.first.wpilibj.command.CommandGroup;
+
+public class AutonomousCommandGroup extends CommandGroup {
+
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.RobotDrive"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.PneumaticsTest.OI"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Joystick"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.DoubleSolenoid"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.DoubleSolenoid.Value"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.ADXRS450_Gyro"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.VictorSP"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Solenoid"/>
+<fullyQualifiedTypeName name="java.net.Socket"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.SensorTest.Robot"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.ICErb2.Robot"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.I2C"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.I2C.Port"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.PWM"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.hal.DIOJNI"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Encoder"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.PIDController"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.DigitalInput"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.SerialPort"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.SerialPort.Port"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.subsystems.BallLauncher.Shaker"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.SpeedController"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.subsystems.BallLauncher"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.CommandGroup"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.Robot"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.commands.autonomousCommands.TimedDriveStraight"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Timer"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.smartdashboard.SmartDashboard"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.commands.autonomousCommands.TimedDriveTurn"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.RobotMap"/>
+<fullyQualifiedTypeName name="org.usfirst.frc6419.RobotFull.commands.autonomousCommands.GyroDriveTurn"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,40 @@
+package org.usfirst.frc6419.RobotFull.commands.autonomousCommands;
+
+import org.usfirst.frc6419.RobotFull.Robot;
+
+import edu.wpi.first.wpilibj.Timer;
+import edu.wpi.first.wpilibj.command.Command;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+
+public class TimedDriveStraight extends Command {
+	private double killTime;
+	private double speed;
+	public TimedDriveStraight(double duration, double power){
+		super();
+		requires(Robot.chassis);
+		speed = power;
+		killTime = duration;
+	}
+	@Override
+	protected boolean isFinished() {
+		return Timer.getMatchTime()>=killTime;
+	}
+	
+	@Override 
+	protected void initialize() {
+		killTime += Timer.getMatchTime();
+		Robot.chassis.driveForward(speed);
+    }
+	
+	@Override 
+	protected void execute() {
+		SmartDashboard.putNumber("Time: ", Timer.getMatchTime());
+		SmartDashboard.putNumber("Kill time: ", killTime);
+	}
+	
+	@Override 
+	protected void end(){
+		Robot.chassis.driveForward(0);
+	}
+
+}

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Sigasi Studio</title>
+    <link>http://marketplace.eclipse.org/content/sigasi-studio</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/icon_eclipse_marketplace%20alfa.png&quot; width=&quot;110&quot; height=&quot;68&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2009-05-19 09:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-11-23 08:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pfaescce/listings&quot; title=&quot;Philippe Faes&quot;&gt;Philippe Faes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.sigasi.com/&quot;&gt;Sigasi&lt;/a&gt; offers the leading plugin for &lt;strong&gt;VHDL&lt;/strong&gt; and &lt;strong&gt;SystemVerilog&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Makes standard editors obsolete
+&lt;/li&gt;&lt;li&gt;Type-time code analysis
+&lt;/li&gt;&lt;li&gt;Error reporting while you type
+&lt;/li&gt;&lt;li&gt;Smart content assist
+&lt;/li&gt;&lt;li&gt;Code inspection and navigation
+&lt;/li&gt;&lt;li&gt;Design hierarchy view (VHDL only)
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Watch our &lt;a href=&quot;http://www.sigasi.com/screencast/quick_intro&quot; target=&quot;_blank&quot;&gt; 1 minute introduction video&lt;/a&gt; and review the &lt;a href=&quot;http://www.sigasi.com/products/&quot; target=&quot;_blank&quot;&gt;feature list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--break--&gt;
+&lt;p&gt;
+Sigasi Studio is an Intelligent Development Environment (IDE) for the VHDL and Verilog languages. As other xDT plugins, such as JDT and CDT, it contains an ultra-fast parser and compiler that runs transparently in the background. At any given moment as you make modifications, the tool fully understands the design &lt;em&gt;in terms of VHDL concepts&lt;/em&gt;. 
+&lt;/p&gt;
+
+&lt;h2&gt;Sigasi Studio Starter&lt;/h2&gt;
+This plugin can be used free of charge on single files. If you want to try the full version, please &lt;a href=&quot;http://www.sigasi.com/try-buy/&quot;&gt;request a trial license&lt;/a&gt; or &lt;a href=&quot;http://www.sigasi.com/try-buy/&quot;&gt;buy a license&lt;/a&gt; on the Sigasi website.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 19 May 2009 13:35:30 +0000</pubDate>
+ <dc:creator>pfaescce</dc:creator>
+ <guid isPermaLink="false">936 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sigasi-studio#comments</comments>
+  </item>
+  <item>
+    <title>UMLet - UML Tool for Fast UML Diagrams</title>
+    <link>http://marketplace.eclipse.org/content/umlet-uml-tool-fast-uml-diagrams</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/UMLet_logo_for_EclipseMarket__NEW.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2005-11-05 23:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-11-23 05:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingname7y2/listings&quot; title=&quot;info umlet&quot;&gt;info umlet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The free UML tool UMLet lets you draw UML diagrams with a light-weight, pop-up-free user interface. It lets you draw diagram sketches fast; export diagrams to pdf, eps, jpg, gif, svg, bmp, png, and system clipboard; share diagrams using Eclipse 3+; and create your own custom graphical elements.&lt;/p&gt;
+&lt;p&gt;New in version 14.2: Fixed pixel displacements on export; improved relations; embeddable pdf fonts.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 06 Nov 2005 04:50:20 +0000</pubDate>
+ <dc:creator>mmisingname7y2</dc:creator>
+ <guid isPermaLink="false">171 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/umlet-uml-tool-fast-uml-diagrams#comments</comments>
+  </item>
+  <item>
+    <title>Code Dx Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/code-dx-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codedxlogo_0.png&quot; width=&quot;64&quot; height=&quot;71&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-01-08 15:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-11-22 14:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ademartini/listings&quot; title=&quot;Hassan Radwan&quot;&gt;Hassan Radwan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Code Dx Integration for Eclipse&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 08 Jan 2015 20:23:37 +0000</pubDate>
+ <dc:creator>ademartini</dc:creator>
+ <guid isPermaLink="false">2129662 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/code-dx-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>mesfavoris</title>
+    <link>http://marketplace.eclipse.org/content/mesfavoris</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/mesfavoris-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-11-21 16:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-11-22 10:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/chabanois/listings&quot; title=&quot;Cédric  Chabanois&quot;&gt;Cédric  Chabanois&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Mesfavoris is an eclipse plugin that allows you to bookmark your files and share them with your team using GDrive.&lt;/p&gt;
+&lt;p&gt;Features :&lt;br /&gt;
+* bookmark files and urls&lt;br /&gt;
+* save your bookmarks on GDrive so that you can use them from your desktop and laptop computer.&lt;br /&gt;
+* share some of your bookmarks&lt;br /&gt;
+* bookmarks can resist changes in the files thanks to Bitap algorithm&lt;br /&gt;
+* numbered bookmarks&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 21 Nov 2016 21:42:06 +0000</pubDate>
+ <dc:creator>chabanois</dc:creator>
+ <guid isPermaLink="false">3176231 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mesfavoris#comments</comments>
+  </item>
+  <item>
+    <title>Ceylon IDE</title>
+    <link>http://marketplace.eclipse.org/content/ceylon-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ceylon_icon_80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2012-01-16 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-11-22 10:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jtools/listings&quot; title=&quot;JBoss Tools&quot;&gt;JBoss Tools&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ceylon IDE provides eclipse support for Ceylon (&lt;a href=&quot;http://ceylon-lang.org&quot;&gt;http://ceylon-lang.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;This is a full-featured development environment for Ceylon, including interactive error reporting, incremental build, syntax highlighting, proposals, quick fixes, refactoring, searching, wizards, hover help, launchers for running and debugging, integration with Ceylon&#039;s module and module repository architecture, and much more.&lt;/p&gt;
+&lt;p&gt;You can read more at &lt;a href=&quot;http://ceylon-lang.org/documentation/ide/&quot;&gt;http://ceylon-lang.org/documentation/ide/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 16 Jan 2012 13:24:14 +0000</pubDate>
+ <dc:creator>jtools</dc:creator>
+ <guid isPermaLink="false">185799 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ceylon-ide#comments</comments>
+  </item>
+  <item>
+    <title>EGradle</title>
+    <link>http://marketplace.eclipse.org/content/egradle</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/EGradle-Profile-Image-Marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-09-13 14:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-11-22 07:49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;EGradle is a lightweight, fast and comfortable gradle integration for eclipse &lt;/strong&gt;&lt;i&gt;(&amp;gt;= Neon)&lt;/i&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1&gt;Features overview&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;Console and Eclipse can be used parallel without conflicts&lt;/li&gt;
+&lt;li&gt;Gradle editor
+&lt;ul&gt;&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Outline view&lt;/li&gt;
+&lt;li&gt;Parse errors are marked&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Gradle execution
+&lt;ul&gt;&lt;li&gt;Launch configurations&lt;/li&gt;
+&lt;li&gt;Quick launch&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;JUnit Integration
+&lt;ul&gt;&lt;li&gt;Import all junit results from existing gradle build results to JUnit view by one click&lt;/li&gt;
+&lt;li&gt;Launch JUnit tests by gradle (all, all of a sub project, one test class, one test method...) and show results in JUnit view&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Virtual root project&lt;/li&gt;
+&lt;li&gt;Synchronization by one click&lt;/li&gt;
+&lt;li&gt;Keywords are highlighted in Console&lt;/li&gt;
+&lt;li&gt;Compile and evaluation errors occurring at launch time are marked in editor and error view&lt;/li&gt;
+&lt;li&gt;Integrated eclipse help&lt;/li&gt;
+&lt;li&gt;Multiple ways to import gradle projects&lt;/li&gt;
+&lt;/ul&gt;&lt;h1&gt;Additional Links&lt;/h1&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/releases&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/wiki&quot;&gt;EGradle Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle/issues&quot;&gt;Issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/egradle&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 13 Sep 2016 18:26:23 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3071167 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/egradle#comments</comments>
+  </item>
+  <item>
+    <title>ZK Studio</title>
+    <link>http://marketplace.eclipse.org/content/zk-studio</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/zk-logo2.gif&quot; width=&quot;95&quot; height=&quot;68&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2011-05-29 22:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-11-22 03:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/zpotix/listings&quot; title=&quot;ZK Potix&quot;&gt;ZK Potix&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;* NOTE: You have to use [Eclipse for J2EE] version or install [Web Tools Platform (WTP)] first before you install ZK Studio.&lt;/p&gt;
+&lt;p&gt;ZK Studio is a visual integrated development environment providing intuitive tools that span the entire application development lifecycle. Tools are included for UI design, prototyping, development, and deployment when implementing ZK applications.&lt;/p&gt;
+&lt;p&gt;ZK Studio provides content assistance, WYSIWYG visual development, hyperlink navigation, variable highlighting, syntax coloring, and many other exciting features. ZK Studio is the most efficient way to develop ZK-based applications.&lt;/p&gt;
+&lt;p&gt;---&lt;br /&gt;
+Update sites:&lt;br /&gt;
+for eclipse 4.2(Juno):&lt;br /&gt;&lt;a href=&quot;http://studio.zkoss.org/resource/plugins/eclipse_4_2/&quot;&gt;http://studio.zkoss.org/resource/plugins/eclipse_4_2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;for eclipse 3.7(Indigo):&lt;br /&gt;&lt;a href=&quot;http://studio.zkoss.org/resource/plugins/eclipse_3_7/&quot;&gt;http://studio.zkoss.org/resource/plugins/eclipse_3_7/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;---&lt;br /&gt;
+Feature Highlights&lt;/p&gt;
+&lt;p&gt;* Project and page wizards&lt;br /&gt;
+* Intelligent editor&lt;br /&gt;
+* Content Assist and code completion&lt;br /&gt;
+* ZK component palette&lt;br /&gt;
+* Automatic update manager&lt;br /&gt;
+* ZK Release management&lt;/p&gt;
+&lt;p&gt;---&lt;br /&gt;
+Supported Platforms&lt;br /&gt;
+* Eclipse 3.7 - Indigo or later&lt;br /&gt;
+* Eclipse 4.2 - Juno or later&lt;br /&gt;
+* MyEclipse&lt;br /&gt;
+* IBM RAD 7.5&lt;br /&gt;
+* Spring Tool Suite 2.5.1&lt;br /&gt;
+Ubuntu users (ver. 16.04 or later) please read the following&lt;br /&gt;&lt;a href=&quot;http://forum.zkoss.org/question/101311/zk-studio-with-eclipse-neon-and-mars-and-ubuntu-1604-not-working/?answer=101822&quot;&gt;http://forum.zkoss.org/question/101311/zk-studio-with-eclipse-neon-and-m...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 30 May 2011 02:11:07 +0000</pubDate>
+ <dc:creator>zpotix</dc:creator>
+ <guid isPermaLink="false">57140 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/zk-studio#comments</comments>
+  </item>
+  <item>
+    <title>StatET for R</title>
+    <link>http://marketplace.eclipse.org/content/statet-r</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/statet-e-marktplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-09-02 13:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-11-21 16:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/stwahlbrin/listings&quot; title=&quot;Stephan Wahlbrink&quot;&gt;Stephan Wahlbrink&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Eclipse based IDE for the statistical programing language &lt;a href=&quot;http://www.r-project.org&quot;&gt;R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It offers a set of mature tools for R coding and package building. This includes a fully integrated R Console, Object Browser, Package Manager, Debugger, Data Viewer and R Help System, whereas multiple local and remote installations of R are supported.&lt;/p&gt;
+&lt;p&gt;The optional add-ons for Sweave and Wikitext provide source editors and build tools for LaTeX/Wikitext documents with R chunks.&lt;/p&gt;
+&lt;p&gt;Please visit the &lt;a href=&quot;http://www.walware.de/goto/statet&quot;&gt;homepage&lt;/a&gt; for installation detail (update-site and required R packages) and more information.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 02 Sep 2010 17:29:51 +0000</pubDate>
+ <dc:creator>stwahlbrin</dc:creator>
+ <guid isPermaLink="false">9295 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/statet-r#comments</comments>
+  </item>
+  <item>
+    <title>UML Designer</title>
+    <link>http://marketplace.eclipse.org/content/uml-designer</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/icon_designer.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-09 05:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-11-21 10:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/omisingnameuel/listings&quot; title=&quot;Obeo Team &quot;&gt;Obeo Team &lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;b&gt;UML Designer&lt;/b&gt; is a graphical tool to edit and vizualize UML 2.5 models.&lt;/p&gt;
+
+&lt;p&gt;It uses the standard UML2 metamodel provided by Eclipse Foundation and it implements the following generic UML diagrams:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Package Hierarchy&lt;/li&gt;
+&lt;li&gt;Class Diagam&lt;/li&gt;
+&lt;li&gt;Component Diagram&lt;/li&gt;
+&lt;li&gt;Composite Structure Diagram&lt;/li&gt;
+&lt;li&gt;Deployment Diagram&lt;/li&gt;
+&lt;li&gt;Use Case Diagram&lt;/li&gt;
+&lt;li&gt;Activity Diagram&lt;/li&gt;
+&lt;li&gt;State Machine&lt;/li&gt;
+&lt;li&gt;Sequence Diagram&lt;/li&gt;
+&lt;li&gt;Profile Diagram&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For those seeking to generate code from their UML diagrams, UML Designer is compatible with the free &lt;a href=&quot;http://marketplace.obeonetwork.com/module/uml2java-generator&quot;&gt;UML to Java code generator&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+As it is based on &lt;a href=&quot;https://www.eclipse.org/sirius&quot;&gt;Sirius&lt;/a&gt;, it provides an easy way to combine UML with domain specific modelling. You can extend the provided diagram definitions and seamlessly work on both UML and DSL models at the same time.
+&lt;/p&gt;
+
+
+&lt;a href=&quot;http://marketplace.obeonetwork.com/module/uml&quot;&gt;
+&lt;img src=&quot;https://github.com/ObeoNetwork/UML-Modeling/raw/fe3ee7f989727866f0cdf60c1902693eb8670093/plugins/org.obeonetwork.dsl.uml2.design.doc/doc/features/agency_pics/entities.jpg&quot; width=&quot;500&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;https://github.com/ObeoNetwork/UML-Modeling/raw/fe3ee7f989727866f0cdf60c1902693eb8670093/plugins/org.obeonetwork.dsl.uml2.design.doc/doc/features/agency_pics/system%20use%20cases.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;!--break--&gt;&lt;p&gt;
+This designer is free (Open Source with EPL license).&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+You can easily modify it with Sirius &lt;strong&gt;to adapt each diagram to your needs&lt;/strong&gt; or combine it to your own DSL. To start customizing this module, just import the &lt;a href=&quot;http://marketplace.obeonetwork.com/module/uml&quot;&gt;source code&lt;/a&gt; of UML Designer from Github.
+&lt;/p&gt;
+
+&lt;p&gt;
+More detail on the &lt;a href=&quot;http://www.umldesigner.org&quot;&gt;UML Designer website.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+If you have any feedback, tell us &lt;a href=&quot;http://stackoverflow.com/questions/tagged/uml-designer&quot;&gt;on the forum&lt;/a&gt;, fill in our &lt;a href=&quot;http://bit.ly/UMLDesignerSurvey&quot;&gt;survey&lt;/a&gt; or &lt;a href=&quot;https://github.com/ObeoNetwork/UML-Modeling/issues&quot;&gt;report an issue&lt;/a&gt;.
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 09 Jul 2014 09:43:32 +0000</pubDate>
+ <dc:creator>omisingnameuel</dc:creator>
+ <guid isPermaLink="false">1789445 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/uml-designer#comments</comments>
+  </item>
+  <item>
+    <title>DBeaver</title>
+    <link>http://marketplace.eclipse.org/content/dbeaver</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/dbeaver_head_new.png&quot; width=&quot;73&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2012-11-04 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-11-21 10:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sriderdp1/listings&quot; title=&quot;Serge Rider&quot;&gt;Serge Rider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;DBeaver is free universal SQL client/database tool for developers and database administrators.&lt;/p&gt;
+&lt;p&gt;It can work with any database server which has JDBC driver. It supports pluggable extensions (ERD, MySQL, Oracle, DB2, SQL Server, PostgreSQL, Exasol, Vertica, Firebird, Informix, Derby, WMI, Cassandra, MongoDB, Redis in version 3.x).&lt;/p&gt;
+&lt;p&gt;Features: Database metadata browser, metadata editor (tables, columns, keys, indexes), SQL statements/scripts execution, SQL highlighting, autocompletion, hyperlinks in SQL editor, Result set/table view/edit/search, BLOB/CLOB view/edit support, scrollable resultsets, data (tables, query results) export and import, metadata editor, transactions management, database search, ER diagrams, automatic drivers download, etc.&lt;/p&gt;
+&lt;p&gt;Standalone version download available on &lt;a href=&quot;http://dbeaver.jkiss.org/download/&quot;&gt;http://dbeaver.jkiss.org/download/&lt;/a&gt;&lt;br /&gt;
+Source code: &lt;a href=&quot;https://github.com/serge-rider/dbeaver&quot;&gt;https://github.com/serge-rider/dbeaver&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 04 Nov 2012 16:30:36 +0000</pubDate>
+ <dc:creator>sriderdp1</dc:creator>
+ <guid isPermaLink="false">507775 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/dbeaver#comments</comments>
+  </item>
+  </channel>
+</rss>

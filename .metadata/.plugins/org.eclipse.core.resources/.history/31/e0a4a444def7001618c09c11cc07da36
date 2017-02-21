@@ -1,0 +1,34 @@
+package org.usfirst.frc6419.RobotFull.commands.autonomousCommands;
+
+import org.usfirst.frc6419.RobotFull.Robot;
+
+import edu.wpi.first.wpilibj.Timer;
+import edu.wpi.first.wpilibj.command.Command;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+
+public class ChassisMechanismSwitch extends Command {
+	private boolean isMech;
+	public ChassisMechanismSwitch(boolean isMech){
+		super();
+		requires(Robot.chassis);
+		this.isMech = isMech;
+	}
+	@Override
+	protected boolean isFinished() {
+		return true;
+	}
+	
+	@Override 
+	protected void initialize() {
+    }
+	
+	@Override 
+	protected void execute() {
+		Robot.chassis.setMech(isMech);
+	}
+	
+	@Override 
+	protected void end(){
+	}
+
+}

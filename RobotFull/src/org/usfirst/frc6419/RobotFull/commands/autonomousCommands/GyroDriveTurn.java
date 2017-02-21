@@ -1,0 +1,42 @@
+package org.usfirst.frc6419.RobotFull.commands.autonomousCommands;
+
+import org.usfirst.frc6419.RobotFull.Robot;
+import org.usfirst.frc6419.RobotFull.RobotMap;
+
+import edu.wpi.first.wpilibj.Timer;
+import edu.wpi.first.wpilibj.command.Command;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+
+public class GyroDriveTurn extends Command {
+	private double angle;
+	private double speed;
+	private double initialAngle;
+	boolean direction;
+	public GyroDriveTurn(double turnAngle, double power){
+		super();
+		requires(Robot.chassis);
+		speed = power;
+		angle = turnAngle;
+		direction = turnAngle>0;
+	}
+	@Override
+	protected boolean isFinished() {
+		return direction?angle+initialAngle<RobotMap.gyro.getAngle():angle+initialAngle>RobotMap.gyro.getAngle();
+	}
+	
+	@Override 
+	protected void initialize() {
+		initialAngle = RobotMap.gyro.getAngle();
+    }
+	
+	@Override 
+	protected void execute() {
+		Robot.chassis.driveTurning(speed);
+	}
+	
+	@Override 
+	protected void end(){
+		Robot.chassis.driveForward(0);
+	}
+
+}

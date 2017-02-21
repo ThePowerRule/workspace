@@ -1,0 +1,13 @@
+1487634014042	Rename type 'LaunchBalls'
+1487634356002	Rename field 'isReverse'
+1487636186677	Rename type 'Chassis'
+1487636334930	Delete element
+1487636805517	Rename type 'ChassisTeleopCommand'
+1487641231664	Copy compilation unit
+1487641369577	Delete element
+1487641385900	Copy compilation unit
+1487641617807	Rename compilation unit 'TimedDriveTurn.java'
+1487641668626	Rename type 'GyroDriveTurn'
+1487643556484	Rename type 'PneumaticsManagerCommand'
+1487644086772	Copy compilation unit
+1487644479761	Copy compilation unit

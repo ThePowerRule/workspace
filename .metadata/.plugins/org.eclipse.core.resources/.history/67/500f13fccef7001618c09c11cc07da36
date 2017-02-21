@@ -1,0 +1,35 @@
+package org.usfirst.frc6419.RobotFull.commands.autonomousCommands;
+
+import org.usfirst.frc6419.RobotFull.Robot;
+
+import edu.wpi.first.wpilibj.command.Command;
+
+public class TimedDriveStraight extends Command {
+	private long killTime;
+	private double speed;
+	public TimedDriveStraight(double duration, double power){
+		super();
+		requires(Robot.chassis);
+		killTime = (long)(duration*1000) + System.currentTimeMillis();
+		speed = power;
+	}
+	@Override
+	protected boolean isFinished() {
+		return System.currentTimeMillis()>=killTime;
+	}
+	
+	@Override 
+	protected void initialize() {
+    }
+	
+	@Override 
+	protected void execute() {
+		Robot.chassis.driveForward(speed);
+	}
+	
+	@Override 
+	protected void end(){
+		Robot.chassis.driveForward(0);
+	}
+
+}

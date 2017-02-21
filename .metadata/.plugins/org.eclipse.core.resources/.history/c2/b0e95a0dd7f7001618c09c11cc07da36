@@ -1,0 +1,12 @@
+package org.usfirst.frc6419.RobotFull.commands.autonomousCommands;
+
+public class Snippet {
+	
+	public void driveForward(double speed){
+		driveMotor1.set(speed);
+		driveMotor2.set(speed);
+		driveMotor3.set(speed);
+		driveMotor4.set(speed);
+	}
+}
+
